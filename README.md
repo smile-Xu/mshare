@@ -23,7 +23,3 @@
 	image : 图片分享设置，具体见http://share.baidu.com/code/advance#config-image
 
 	selectShare : 划词分享设置，具体见http://share.baidu.com/code/advance#config-selectShare
-
-
-
-git push origin master test
